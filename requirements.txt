@@ -1,4 +1,4 @@
 functions-framework==3.8.3
 requests==2.32.4
-google-cloud-sql-connector==1.4.2
+google-cloud-sql-connector==1.17.4
 pymysql==1.1.0
