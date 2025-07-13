@@ -1,0 +1,4 @@
+functions-framework==3.*
+requests==2.*
+google-cloud-sql-connector==1.*
+pymysql==1.*
